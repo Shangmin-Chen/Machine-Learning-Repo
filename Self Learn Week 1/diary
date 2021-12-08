@@ -1,1 +1,11 @@
 dec 8, need to figure out how to use jupyter notebook, currently in compsci class, going to use this class time to figure it out.
+
+alright its the end of the period, I got juptyer notebook installed with pip, i came across a problem and solved it by using pip3 install -U pip setuptools
+and then pip install notebook installed it.
+
+video i watched to set it up https://www.youtube.com/watch?v=HW29067qVWk
+
+jupyter notebook reaction: It seems very organized, it allows plotting and is basically a debugger. Markup is pretty neat, it reminds me of obsidian.md's setup
+another neat touch is the ability to run bash commands, very interesting.
+
+I realized my experience from picoctf and playing around with command lines start to show because of the ability to run bash commands with % magic.
