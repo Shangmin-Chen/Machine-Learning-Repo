@@ -9,3 +9,18 @@ jupyter notebook reaction: It seems very organized, it allows plotting and is ba
 another neat touch is the ability to run bash commands, very interesting.
 
 I realized my experience from picoctf and playing around with command lines start to show because of the ability to run bash commands with % magic.
+
+----------
+dec 9, jupyter notebook failed me, i tried to install tensorflow and import it, but it crashes my python. 
+
+I spent 5th period desperately trying to figure it out.
+did not work.
+
+I spent 9th period seeing if it's a mac error, and of course it was.
+it ran perfectly on pycharm on the computer lab.
+
+I spent 3 hours after school in the public library down the block to try to figure it out. 
+Started at around 2:30 and went home cold, hungry, tired, and defeated at 5:30.
+
+The code worked in the computer lab, model.summary() ran like how it was supposed to. 
+I'm planning to spend as much time as I can in the computer lab to learn machine learning.
